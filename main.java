@@ -48,7 +48,8 @@ public class main {
 }
 
 
-//also
+//also this code was an example they had up and running
+// should be able to use modify these ideas to suit our needs
 
 /*
 package com.pi4j.catalog.components;
