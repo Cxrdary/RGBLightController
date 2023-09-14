@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/RGBLightController.iml" filepath="$PROJECT_DIR$/.idea/RGBLightController.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RGBLightControllerUI.iml" filepath="$PROJECT_DIR$/RGBLightControllerUI.iml" />
     </modules>
   </component>
 </project>
